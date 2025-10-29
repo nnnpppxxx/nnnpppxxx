@@ -14,3 +14,5 @@ European student, developer with great potential!
 
 ### 🌐 Socials
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/nnnpppxxx)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/val.ik.p)
+
