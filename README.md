@@ -10,7 +10,7 @@ European student, developer with great potential!
 - 💬 How to reach me: [prudskyi@gmail.com](mailto:prudskyi@gmail.com)
 
 ### 🧰 My Skill Set
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,vue,blender,figma" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,html,css,js,vue,blender,figma" />
 
 ### 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/val.ik.p)
