@@ -6,7 +6,7 @@
 ## Hi, I'm Valentyn Prudskyi.
 European student, developer with great potential!
 
-- 🌱 I’m currently learning **Snowflake, Vue.js, Python**
+- 🌱 I’m currently learning **IoT, PLC, Python**
 - 💬 How to reach me: [prudskyi@gmail.com](mailto:prudskyi@gmail.com)
 
 ### 🧰 My Skill Set
